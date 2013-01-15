@@ -5,3 +5,4 @@ All the module source code is commented with personals annotations.
 ## Installation
 For the install, just put the "current_posts" folder into the Drupal's folder. More precisely in: sites->all->modules
 
+--
